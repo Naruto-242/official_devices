@@ -1,3 +1,7 @@
+# 16-June-2024
+- Signed Build 
+- Switched to common power-libperfmgr
+
 # 15-May-2024
 - Fixed NFC for phoenix variant
 - Fixed battery cycles not showing under battery info

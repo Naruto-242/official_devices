@@ -18,14 +18,14 @@
   "public_download": "https://www.pling.com/p/1422701/",
   "response": [
     {
-      "datetime": 1715695716,
-      "size": 2122792152,
-      "filehash": "217c423f7ee5e9e6a2b09d988dfcc30b",
-      "filename": "awaken-4.5-ursa-phoenix-official-1240-20240515.zip",
-      "id": "18d264f2fbc47f492a7996d362d754a04e5e6137066e5e5b9d05133e2e15b444",
+      "datetime": 1718486526,
+      "size": 2140783351,
+      "filehash": "a0e5cf6e5eb44c5e29fdd8a5e97aedf6",
+      "filename": "awaken-4.5-ursa-phoenix-official-0122-20240616.zip",
+      "id": "600d43ca7ab56eb596c96758533cdf4917376f500c1294f8e265e73e75c7793f",
       "romtype": "official",
       "version": "4.5",
-      "url": "https://sourceforge.net/projects/project-awaken/files/phoenix/awaken-4.5-ursa-phoenix-official-1240-20240515.zip/download"
+      "url": "https://sourceforge.net/projects/project-awaken/files/phoenix/awaken-4.5-ursa-phoenix-official-0122-20240616.zip/download"
     }
   ]
 }
